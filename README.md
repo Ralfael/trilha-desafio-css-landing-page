@@ -1,4 +1,4 @@
-# Desafio: Criando sua primeira Landing Page com HTML e CSS
+# Desafio: Criando Landing Page HTML/CSS
 
 
 
